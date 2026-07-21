@@ -4,3 +4,12 @@ table,th,td{
 	border:1px solid black
 	
 }
+.height{
+	height:120px
+}
+td{
+	width:200px
+}
+table{
+	width:260px
+}
